@@ -13,9 +13,9 @@ Once those objectives were achieved, we tied all of the data together in the for
 ## Dataset
 The datasets used for this analysis can be found here:
 
-*[Citi Bike Data](https://www.citibikenyc.com/system-data)
+* [Citi Bike Data](https://www.citibikenyc.com/system-data)
 
 ## Deployment
 The deployed repo can be accessed through the link below:
 
-*[City Bike Analysis - NYC](https://chrispope12391.github.io/citi-bike-analysis/)
+* [City Bike Analysis - NYC](https://chrispope12391.github.io/citi-bike-analysis/)
