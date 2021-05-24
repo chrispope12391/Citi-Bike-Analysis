@@ -19,3 +19,14 @@ The datasets used for this analysis can be found here:
 The deployed repo can be accessed through the link below:
 
 * [City Bike Analysis - NYC](https://chrispope12391.github.io/citi-bike-analysis/)
+
+## Languages/Applications
+* Python (Pandas)
+* Tableau
+* Visual Studio Code
+
+## Author(s)
+* Chris Pope
+
+## Contact:
+__Email:__ popex107@umn.edu
