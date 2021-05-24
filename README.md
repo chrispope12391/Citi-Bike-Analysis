@@ -10,4 +10,12 @@ The objective of this project was to take aggregated New York City Citi Bike dat
 
 Once those objectives were achieved, we tied all of the data together in the form of a Story which would be shared with the mock leadership. The story was written in such a way that it assumed the readers are not data analysts.
 
+## Dataset
+The datasets used for this analysis can be found here:
 
+*[Citi Bike Data](https://www.citibikenyc.com/system-data)
+
+## Deployment
+The deployed repo can be accessed through the link below:
+
+*[City Bike Analysis - NYC](https://chrispope12391.github.io/citi-bike-analysis/)
