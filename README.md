@@ -30,3 +30,6 @@ The deployed repo can be accessed through the link below:
 
 ## Contact:
 __Email:__ popex107@umn.edu
+
+
+If you have a moment, read through my story. I hope you enjoy my findings!
